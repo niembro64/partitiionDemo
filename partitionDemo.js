@@ -41,7 +41,6 @@ const partition0 = (a) => {
 //                     " a[piv_i]:" +
 //                     a[piv_i]
 //             );
-
 //             for (var j = i; j > piv_i; j--) {
 //                 temp = a[j];
 //                 a[j] = a[j - 1];
@@ -50,7 +49,6 @@ const partition0 = (a) => {
 //             }
 //             piv_i++;
 //         }
-
 //         return a;
 //     }
 // };
